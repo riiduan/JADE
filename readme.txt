@@ -1,0 +1,2 @@
+Per lanciare il progetto singolo iniziatore utilizzare il main presente all'intero della classe "FrameMain" del package "gui".
+Per lanciare il progetto multi iniziatore utilizzare il main presente all'intero della classe "FrameMainMulti" del package "gui".
